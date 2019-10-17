@@ -1,0 +1,8 @@
+spring:
+  cache:
+    type: redis
+  redis:
+    ssl: true
+    host: redieu2cqrd01.redis.cache.windows.net
+    port: 6380
+    password: Loalxb852VTbC1zHxSV2fPouZBeuodbTEX5BdmdM+74=
